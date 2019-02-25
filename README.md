@@ -1,4 +1,4 @@
-# Analyze-water-quality-data-using-satellite-images-in-RStudio
+# Analyze-water-quality-data-from-satellite-images-using-RStudio
 
 ### Introduction
 Gilgel Gibe III hydropower dam, which is constructed on the Omo River in Ethiopia, was 
