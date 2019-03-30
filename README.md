@@ -4,14 +4,14 @@
 Gilgel Gibe III hydropower dam, which is constructed on the Omo River in Ethiopia, was 
 predicted to bring catastrophic impact on the water quality, ecology and hydrology of Lake
 Turkana by previous studies. The effect of the dam on the water quality of Lake Turkana was
-analyzed in this study using data retrieved from Landsat 8 OLI/TIRS sensor.
+analysed in this study using data retrieved from Landsat 8 OLI/TIRS sensor.
 
 ### Research aim and objectives
 The main aim and objectives of this research are as follows:
 
 Aim:
 
-• Analyze the effect of Gibe III dam on the water quality of Lake Turkana.
+• Analyse the effect of Gibe III dam on the water quality of Lake Turkana.
 
 Objectives:
 
@@ -30,7 +30,7 @@ the effect of the Gibe III dam on the water quality of Lake Turkana.
 ### Methodology
 Tools used
 
-The Landsat-8 Surface Reflectance images were processed and analyzed using RStudio.
+The Landsat-8 Surface Reflectance images were processed and analysed using RStudio.
 
 ### Key findings
 A strong relationship was found between the measured and estimated chlorophyll-a (Chl-a)
