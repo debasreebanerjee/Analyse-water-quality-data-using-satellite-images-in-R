@@ -1,4 +1,4 @@
-# Analyse-water-quality-data-from-satellite-images-using-RStudio
+# Analyse-water-quality-data-from-satellite-images-using-R
 
 ### Introduction
 Gilgel Gibe III hydropower dam, which is constructed on the Omo River in Ethiopia, was 
@@ -30,7 +30,7 @@ the effect of the Gibe III dam on the water quality of Lake Turkana.
 ### Methodology
 Tools used
 
-The Landsat-8 Surface Reflectance images were processed and analysed using RStudio.
+The Landsat-8 Surface Reflectance images were processed and analysed using R.
 
 ### Key findings
 A strong relationship was found between the measured and estimated chlorophyll-a (Chl-a)
